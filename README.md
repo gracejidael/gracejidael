@@ -1,4 +1,5 @@
 ![](https://github.com/GraceOby/GraceOby/blob/main/data_analyst_associate_facebook_wide.png)
+![](https://drive.google.com/file/d/13EMHgLxx1Cx5d340qHbKThxR3kCw12xH/view?usp=drive_link)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -18,8 +19,8 @@
 ## Hi there 👋, My name is Grace Oby
 
 
-- 🔭 I’m currently working on automating data analytics reports with streamlit
-- 🌱 I’m currently learning how to build simple a automated system where reports and visualization are updated as data is entered into the database
+- 🔭 I’m currently building my portfolio
+- 🌱 I’m currently building automated systems where reports and visualization are updated as data is entered into the database
 - 👯 I’m looking to collaborate in solving industry/business problems
 - 💬 Ask me about Data Analytics
 - ⚡ Fun fact: I love learning new stuff, teaching, and reading.
