@@ -11,12 +11,16 @@
 - 💬 Ask me about Data Analytics
 - ⚡ Fun fact: I love learning new stuff, teaching, and reading.
 ---
-<!---
+
 ## See Interesting PROJECTS
 
 <div id="MarketBasket">
-  <a href="https://www.linkedin.com/in/graceobyokeke/">Market Basket Analysis for E-commerce</a>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/graceobyokeke/">Portfolio Projects</a>
+  </p>
   </div>
+<!---
+
 
 <div id="MarketBasket">
   <a href="https://twitter.com/GraceOkeke13">Hotel Reservation Analysis in SQL and Tableau</a>
