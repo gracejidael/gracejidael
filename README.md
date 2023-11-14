@@ -16,7 +16,7 @@
 
 <div id="MarketBasket">
   <p align="center">
-  <a href="https://github.com/GraceOby/MarketBasketAnalysis">Portfolio Projects</a>
+  <a href="https://github.com/GraceOby/MarketBasketAnalysis">Market Basket Analysis</a>
   </p>
   </div>
 <!---
