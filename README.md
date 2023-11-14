@@ -12,11 +12,11 @@
 - ⚡ Fun fact: I love learning new stuff, teaching, and reading.
 ---
 
-## See Interesting PROJECTS
+## See Interesting Projects
 
 <div id="MarketBasket">
   <p align="center">
-  <a href="https://www.linkedin.com/in/graceobyokeke/">Portfolio Projects</a>
+  <a href="https://github.com/GraceOby/PorfolioProjects">Portfolio Projects</a>
   </p>
   </div>
 <!---
