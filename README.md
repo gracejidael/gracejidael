@@ -4,7 +4,7 @@
 
 ---
 
-## Hi there 👋, My name is Grace Oby
+## Hi there 👋, My name is Grace Jidael
 - 🔭 I’m currently building my portfolio
 - 🌱 I’m currently building automated systems where reports and visualization are updated as data is entered into the database
 - 👯 I’m looking to collaborate in solving industry/business problems
