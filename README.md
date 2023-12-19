@@ -1,5 +1,6 @@
 <!-- ![](https://github.com/GraceOby/GraceOby/blob/main/data_analyst_associate_facebook_wide.png) -->
-![](https://github.com/GraceOby/GraceOby/blob/main/final%20banner.jpg)
+<!--![](https://github.com/GraceOby/GraceOby/blob/main/final%20banner.jpg) -->
+
 ![](https://github.com/gracejidael/gracejidael/blob/main/bannerwide.png)
 
 
@@ -58,6 +59,8 @@
   
 </div>
 
+  ![](https://github.com/gracejidael/gracejidael/blob/main/data_analyst_associate_facebook_wide.png)
+
 ---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -76,8 +79,7 @@
 ---
 
 <div align="center">
-  
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GraceOby&theme=gruvbox)  
+<!--  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GraceOby&theme=gruvbox)  
   
   <!--![GitHub metrics](https://metrics.lecoq.io/GraceOby) -->
   
