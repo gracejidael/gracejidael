@@ -21,6 +21,9 @@
   <p align="center">
   <a href="https://github.com/gracejidael/International_Debt_Analysis_with_SQL">International Debt Analysis with SQL</a>
   </p>
+  <p align="center">
+  <a href="https://github.com/gracejidael/Health-datasets-Classification-/blob/main/heart-disease-classification.ipynb">Heart Disease Classification</a>
+  </p>
   </div>
 
 
