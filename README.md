@@ -1,5 +1,6 @@
 <!-- ![](https://github.com/GraceOby/GraceOby/blob/main/data_analyst_associate_facebook_wide.png) -->
 ![](https://github.com/GraceOby/GraceOby/blob/main/final%20banner.jpg)
+![](https://github.com/gracejidael/gracejidael/blob/main/bannerwide.png)
 
 
 ---
