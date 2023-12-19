@@ -16,7 +16,10 @@
 
 <div id="MarketBasket">
   <p align="center">
-  <a href="https://github.com/GraceOby/MarketBasketAnalysis">Market Basket Analysis</a>
+  <a href="https://github.com/gracejidael/MarketBasketAnalysis">Market Basket Analysis</a>
+  </p>
+  <p align="center">
+  <a href="https://github.com/gracejidael/International_Debt_Analysis_with_SQL">International Debt Analysis with SQL</a>
   </p>
   </div>
 
@@ -27,7 +30,7 @@
 
 
 <div id="MarketBasket">
-  <a href="https://twitter.com/GraceOkeke13">Hotel Reservation Analysis in SQL and Tableau</a>
+  <a href="https://twitter.com/gracejidael">Hotel Reservation Analysis in SQL and Tableau</a>
   
 </div>
 <div id="MarketBasket">
