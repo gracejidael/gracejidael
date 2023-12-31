@@ -26,7 +26,10 @@
   <p align="center">
   <a href="https://github.com/gracejidael/Health-datasets-Classification-/blob/main/heart-disease-classification.ipynb">Heart Disease Classification</a>
   </p>
-  </div>
+  <p align="center">
+  <a href="https://github.com/gracejidael/Hotel_Reservation_Analysis-SQL-Tableau-Python-">Booking Analysis with Tableau</a>
+  </p>
+</div>
 
 
 
