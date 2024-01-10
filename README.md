@@ -21,13 +21,13 @@
   <a href="https://github.com/gracejidael/MarketBasketAnalysis">Market Basket Analysis</a>
   </p>
   <p align="center">
+  <a href="https://github.com/gracejidael/Hotel_Reservation_Analysis-SQL-Tableau-Python-">Hotel Booking Analysis</a>
+  </p>
+  <p align="center">
   <a href="https://github.com/gracejidael/International_Debt_Analysis_with_SQL">International Debt Analysis with SQL</a>
   </p>
   <p align="center">
   <a href="https://github.com/gracejidael/Health-datasets-Classification-/blob/main/heart-disease-classification.ipynb">Heart Disease Classification</a>
-  </p>
-  <p align="center">
-  <a href="https://github.com/gracejidael/Hotel_Reservation_Analysis-SQL-Tableau-Python-">Booking Analysis with Tableau</a>
   </p>
 </div>
 
