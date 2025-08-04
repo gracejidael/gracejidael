@@ -21,6 +21,9 @@
   <a href="https://github.com/gracejidael/MarketBasketAnalysis">Market Basket Analysis</a>
   </p>
   <p align="center">
+  <a href="https://github.com/gracejidael/Company_Bankrupcy_Analysis">Company Bankrupcy Analysis</a>
+  </p>
+  <p align="center">
   <a href="https://github.com/gracejidael/Hotel_Reservation_Analysis-SQL-Tableau-Python-">Hotel Booking Analysis</a>
   </p>
    <p align="center">
